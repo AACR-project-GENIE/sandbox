@@ -5,4 +5,4 @@ https://AACR-project-GENIE.github.io/sandbox
 
 repository view URL is: https://github.com/AACR-project-GENIE/sandbox
 
-word file reference: [https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx](link)
+word file reference: [link](https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx)
