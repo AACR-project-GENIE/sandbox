@@ -16,7 +16,7 @@ There are 2 views
 - example of MS Word document rendering  
   
   On a dummy document. This document is stored in github repo.  
-  word file reference: [https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx](documentation)  
+  word file reference: [MS Word documentation example](https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx)  
 
 
-- sample svg: [https://AACR-project-GENIE.github.io/sandbox/test001.svg](diagram example)
+- sample svg: [diagram example](https://AACR-project-GENIE.github.io/sandbox/test001.svg)
