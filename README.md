@@ -3,7 +3,7 @@ This repository is public
 
 There are 2 views
 
-1. wepage view of the the repository is: (".io link")
+1. webpage view of the the repository is: (".io link")
    [https://AACR-project-GENIE.github.io/sandbox](https://AACR-project-GENIE.github.io/sandbox)  
    webpage view is only possible for public repositories  
 
