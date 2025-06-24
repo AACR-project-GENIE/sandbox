@@ -1,14 +1,16 @@
-# sandbox
+# Sandbox
 
-this repository is public
+This repository is public
 
 There are 2 views
 
 1. wepage view of the the repository is: (".io link")
 [https://AACR-project-GENIE.github.io/sandbox](https://AACR-project-GENIE.github.io/sandbox)
 
+  webpage view is only possible for public repositories.
 
-2. repository view URL is: [https://github.com/AACR-project-GENIE/sandbox](https://github.com/AACR-project-GENIE/sandbox)
+
+3. repository view URL is: [https://github.com/AACR-project-GENIE/sandbox](https://github.com/AACR-project-GENIE/sandbox)
 
 
 
@@ -19,4 +21,4 @@ There are 2 views
   word file reference: [link](https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx)
 
 
-- sample svg: https://AACR-project-GENIE.github.io/sandbox/test001.svg
+- sample svg: example [https://AACR-project-GENIE.github.io/sandbox/test001.svg]
