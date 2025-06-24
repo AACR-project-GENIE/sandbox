@@ -20,4 +20,4 @@ There are 2 views
   word file reference: [link](https://github.com/AACR-project-GENIE/sandbox/raw/refs/heads/main/word.docx)  
 
 
-- sample svg: example [https://AACR-project-GENIE.github.io/sandbox/test001.svg]
+- sample svg: (example)[https://AACR-project-GENIE.github.io/sandbox/test001.svg]
