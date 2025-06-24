@@ -8,7 +8,7 @@ There are 2 views
    webpage view is only possible for public repositories  
 
 
-2. repository view URL is: [https://github.com/AACR-project-GENIE/sandbox](https://github.com/AACR-project-GENIE/sandbox)  
+2. repository view: [https://github.com/AACR-project-GENIE/sandbox](https://github.com/AACR-project-GENIE/sandbox)  
 
 
 
