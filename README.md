@@ -1,4 +1,3 @@
-# Sandbox
 
 This repository is public
 
